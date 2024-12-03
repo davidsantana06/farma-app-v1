@@ -1,0 +1,159 @@
+{
+    "comentarios": [
+      {
+        "_id": 1,
+        "feed": 1,
+        "user": {
+          "userId": 1,
+          "email": "user1@example.com",
+          "name": "Treinador Fit"
+        },
+        "datetime": "2019-01-01T12:00-0500",
+        "content": "Excelente produto! Já senti melhora na performance durante os treinos."
+      },
+      {
+        "_id": 2,
+        "feed": 1,
+        "user": {
+          "userId": 2,
+          "email": "user2@example.com",
+          "name": "MuscleManiac"
+        },
+        "datetime": "2019-01-02T10:00-0500",
+        "content": "A creatina é essencial para qualquer atleta. Recomendo muito!"
+      },
+      {
+        "_id": 3,
+        "feed": 2,
+        "user": {
+          "userId": 3,
+          "email": "user3@example.com",
+          "name": "Vida Saudável"
+        },
+        "datetime": "2019-01-03T15:30-0500",
+        "content": "Ótimo suplemento para quem busca mais energia no dia a dia. Aprovado!"
+      },
+      {
+        "_id": 4,
+        "feed": 2,
+        "user": {
+          "userId": 4,
+          "email": "user4@example.com",
+          "name": "Wellness Guru"
+        },
+        "datetime": "2019-01-04T08:00-0500",
+        "content": "Notei uma melhora no humor e na energia. Produto de qualidade!"
+      },
+      {
+        "_id": 5,
+        "feed": 3,
+        "user": {
+          "userId": 5,
+          "email": "user5@example.com",
+          "name": "Coração Saudável"
+        },
+        "datetime": "2019-01-05T18:45-0500",
+        "content": "O ômega 3 é ótimo para a saúde. Já estou vendo resultados no meu bem-estar."
+      },
+      {
+        "_id": 6,
+        "feed": 3,
+        "user": {
+          "userId": 6,
+          "email": "user6@example.com",
+          "name": "Nutrição Inteligente"
+        },
+        "datetime": "2019-01-06T09:20-0500",
+        "content": "Suplemento essencial para qualquer pessoa. Melhorou muito minha memória."
+      },
+      {
+        "_id": 7,
+        "feed": 4,
+        "user": {
+          "userId": 7,
+          "email": "user7@example.com",
+          "name": "Saúde Forte"
+        },
+        "datetime": "2019-01-07T13:10-0500",
+        "content": "A vitamina D é um diferencial no cuidado com os ossos. Recomendo!"
+      },
+      {
+        "_id": 8,
+        "feed": 4,
+        "user": {
+          "userId": 8,
+          "email": "user8@example.com",
+          "name": "Sorriso Saudável"
+        },
+        "datetime": "2019-01-08T11:50-0500",
+        "content": "Desde que comecei a usar, sinto mais disposição no dia a dia."
+      },
+      {
+        "_id": 9,
+        "feed": 5,
+        "user": {
+          "userId": 9,
+          "email": "user9@example.com",
+          "name": "Pele Radiante"
+        },
+        "datetime": "2019-01-09T17:00-0500",
+        "content": "O colágeno é ótimo! Minha pele e articulações estão mais saudáveis."
+      },
+      {
+        "_id": 10,
+        "feed": 5,
+        "user": {
+          "userId": 10,
+          "email": "user10@example.com",
+          "name": "Esportista"
+        },
+        "datetime": "2019-01-10T20:30-0500",
+        "content": "Um dos melhores produtos que já experimentei. Aprovadíssimo!"
+      },
+      {
+        "_id": 11,
+        "feed": 5,
+        "user": {
+          "userId": 11,
+          "email": "user11@example.com",
+          "name": "Wellness Lover"
+        },
+        "datetime": "2019-01-11T09:15-0500",
+        "content": "Minha pele está mais firme desde que comecei a usar. Adorei!"
+      },
+      {
+        "_id": 12,
+        "feed": 6,
+        "user": {
+          "userId": 12,
+          "email": "user12@example.com",
+          "name": "Imune Sempre"
+        },
+        "datetime": "2019-01-12T16:45-0500",
+        "content": "Ótimo suplemento para manter a imunidade alta. Recomendado!"
+      },
+      {
+        "_id": 13,
+        "feed": 7,
+        "user": {
+          "userId": 13,
+          "email": "user13@example.com",
+          "name": "Cabelo Forte"
+        },
+        "datetime": "2019-01-13T14:30-0500",
+        "content": "A biotina realmente funciona! Meu cabelo está mais forte."
+      },
+      {
+        "_id": 14,
+        "feed": 7,
+        "user": {
+          "userId": 14,
+          "email": "user14@example.com",
+          "name": "Beleza Natural"
+        },
+        "datetime": "2019-01-14T18:10-0500",
+        "content": "Muito bom para pele e unhas. Um dos meus favoritos!"
+      }
+    ]
+  }
+  

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845574338857",
+    "project_id": "farma-app-2e6e8",
+    "storage_bucket": "farma-app-2e6e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845574338857:android:a76058058b8ce369addf38",
+        "android_client_info": {
+          "package_name": "com.example.farma_app_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845574338857-a07m1ntfbcfr5oa7luq80rsu6rens84g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farma_app_v1",
+            "certificate_hash": "3c921c4cd04c59040d75c418762821e919add4c6"
+          }
+        },
+        {
+          "client_id": "845574338857-er6rq8cml667b4dnnu0spl5pjdbism63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMGTp6-qabxM2gA_AMW9JPUgSYmWKpNlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845574338857-er6rq8cml667b4dnnu0spl5pjdbism63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

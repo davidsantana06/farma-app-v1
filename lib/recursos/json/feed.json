@@ -1,0 +1,172 @@
+{
+  "produtos": [
+    {
+      "_id": 1,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Creatina (300g)",
+        "description": "Suplemento para ganho de força e massa muscular.",
+        "price": 120.0,
+        "dosage": "3g por dia, preferencialmente antes do treino."
+      }
+    },
+    {
+      "_id": 2,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Feno Grego (60 cápsulas)",
+        "description": "Auxilia no controle hormonal e no ganho de energia.",
+        "price": 80.0,
+        "dosage": "1 cápsula duas vezes ao dia, com as refeições."
+      }
+    },
+    {
+      "_id": 3,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Ômega 3 (120 cápsulas)",
+        "description": "Melhora a saúde cardiovascular e cerebral.",
+        "price": 90.0,
+        "dosage": "2 cápsulas ao dia, após as refeições."
+      }
+    },
+    {
+      "_id": 4,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Vitamina D3 (200 cápsulas)",
+        "description": "Suporte para ossos e imunidade.",
+        "price": 75.0,
+        "dosage": "1 cápsula por dia, de preferência pela manhã."
+      }
+    },
+    {
+      "_id": 5,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Colágeno Hidrolisado (300g)",
+        "description": "Promove saúde da pele e articulações.",
+        "price": 95.0,
+        "dosage": "10g ao dia, diluído em água ou suco."
+      }
+    },
+    {
+      "_id": 6,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Zinco Quelado (30 cápsulas)",
+        "description": "Fortalece o sistema imunológico.",
+        "price": 60.0,
+        "dosage": "1 cápsula ao dia, junto com uma refeição."
+      }
+    },
+    {
+      "_id": 7,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Biotina (60 cápsulas)",
+        "description": "Apoia a saúde do cabelo, pele e unhas.",
+        "price": 50.0,
+        "dosage": "1 cápsula ao dia, preferencialmente pela manhã."
+      }
+    },
+    {
+      "_id": 8,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Magnésio Dimalato (120 cápsulas)",
+        "description": "Ajuda no relaxamento muscular e energia.",
+        "price": 85.0,
+        "dosage": "2 cápsulas ao dia, antes de dormir."
+      }
+    },
+    {
+      "_id": 9,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Melatonina (30 cápsulas)",
+        "description": "Melhora a qualidade do sono.",
+        "price": 70.0,
+        "dosage": "1 cápsula ao dia, 30 minutos antes de dormir."
+      }
+    },
+    {
+      "_id": 10,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Vitamina C (100 cápsulas)",
+        "description": "Auxilia na imunidade e combate ao estresse.",
+        "price": 65.0,
+        "dosage": "1 cápsula duas vezes ao dia, após as refeições."
+      }
+    },
+    {
+      "_id": 11,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Coenzima Q10 (60 cápsulas)",
+        "description": "Fornece energia celular e antioxidantes.",
+        "price": 110.0,
+        "dosage": "1 cápsula ao dia, junto com uma refeição."
+      }
+    },
+    {
+      "_id": 12,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Cálcio + Vitamina D (90 cápsulas)",
+        "description": "Fortalece os ossos e dentes.",
+        "price": 85.0,
+        "dosage": "2 cápsulas ao dia, preferencialmente à noite."
+      }
+    },
+    {
+      "_id": 13,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Probioticos (30 cápsulas)",
+        "description": "Melhora a saúde intestinal.",
+        "price": 75.0,
+        "dosage": "1 cápsula ao dia, antes de dormir."
+      }
+    },
+    {
+      "_id": 14,
+      "company": {
+        "name": "OficialFarma"
+      },
+      "product": {
+        "name": "Vitamina B12 (60 cápsulas)",
+        "description": "Apoia o sistema nervoso e energia.",
+        "price": 55.0,
+        "dosage": "1 cápsula ao dia, junto com o café da manhã."
+      }
+    }
+  ]
+}
